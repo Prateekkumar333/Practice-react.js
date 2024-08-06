@@ -17,3 +17,5 @@ TOPIC TO LEARN : - core of react (state or UI manipulation, JSX) - component Reu
 ADDITIONAL ADD ON TO REACT : - router (react don't have router) - new package - react-router-dom - state management (react don't have state management) - redux, redux tookit, zustand, context api - class based component - legacy code :-( ) - BAAS apps - backend as as service -firebase - superbase - freeApi.app by hiteshcode - social media close, e-commerce app .....
 
 AFTER REACT : - React is not a complete solution in most case - no seo, browser render of js, no routing - framework - Next js, gatsby, remix
+
+react - react-dom = for web development - react-native = for mobile apps
